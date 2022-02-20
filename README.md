@@ -1,3 +1,13 @@
-"# AcadCapgeminiQ1" 
-"# AcadCapgeminiQ1" 
-"# AcadCapgeminiQ1" 
+# Questão Nº 1 - Academia Capgemini
+
+## Instalação e Resultado
+
+Instale o programa Apache NetBeans.
+
+Baixe ou clone este projeto em alguma pasta.
+
+Importe este projeto no Apache NetBeans.
+
+Execute o projeto.
+
+O resultado está no console.
